@@ -1,6 +1,7 @@
 # 🏫 SOLUP
 
 <br/>
+![image](https://github.com/sokurii/ShinhanHackathon-SOLUP/assets/122415844/4b6e1b6c-a769-49b8-84cc-1e570d14829b)
 
 <div align="center">
   <h3>돈 관리에 어려움을 겪는 소상공인들을 위한 손익 관리 솔루션 서비스</h3>
