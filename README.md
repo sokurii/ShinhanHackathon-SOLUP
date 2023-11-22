@@ -3,6 +3,7 @@
 <br/>
 
 <h1>돈 관리에 어려움을 겪는 소상공인들을 위한 손익 관리 솔루션 서비스</h1>
+
 ![image](https://github.com/sokurii/ShinhanHackathon-SOLUP/assets/122415844/bef05dad-7997-43cd-821d-f4d31faf78af)
 
 
